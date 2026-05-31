@@ -9,7 +9,7 @@ export default function Navbar() {
             className="w-8 h-8 rounded-lg flex items-center justify-center text-sm font-bold shrink-0"
             // style={{ background: '#0357EE', color: '#FFD85C' }}
           >
-          <img src={logo} alt="Moniepoint logo" />
+          <img src={logo} alt="MonieCheck logo" />
           </div>
   
           {/* App name */}

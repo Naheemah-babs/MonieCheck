@@ -91,7 +91,7 @@ export function computeScore(formData) {
           rate: '5.5% / month',
           tenor: '3 months',
           repayment: 'Weekly',
-          caption: 'Grow your Moniepoint activity to unlock better offers.',
+          caption: 'Grow your MonieCheck activity to unlock better offers.',
         }
     }
   }

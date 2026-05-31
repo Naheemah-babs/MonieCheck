@@ -111,9 +111,9 @@ export default function ResultPage({ formData, result, onRestart }) {
               color: '#0244C4',
               boxShadow: '0 6px 20px rgba(255, 216, 92, 0.4)',
             }}
-            onClick={() => alert('This would open the Moniepoint app to complete your application.')}
+            onClick={() => alert('This would open the MonieCheck app to complete your application.')}
           >
-            Apply on Moniepoint
+            Apply on MonieCheck
           </button>
 
           <button
@@ -124,7 +124,7 @@ export default function ResultPage({ formData, result, onRestart }) {
           </button>
 
           <p className="text-xs text-neutral-400 text-center mt-4 leading-relaxed">
-            This is a pre-eligibility check, not a guaranteed loan offer. Final approval is subject to Moniepoint's credit review policy.
+            This is a pre-eligibility check, not a guaranteed loan offer. Final approval is subject to MonieCheck's credit review policy.
           </p>
         </div>
       </Section>
